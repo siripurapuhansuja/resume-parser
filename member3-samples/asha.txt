@@ -1,0 +1,4 @@
+Name: Asha Rao
+Email: asha@example.com
+Phone: 9876543210
+Skills: Python, SQL
