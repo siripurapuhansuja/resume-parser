@@ -1,0 +1,12 @@
+Python
+Java
+JavaScript
+HTML
+CSS
+SQL
+Linux
+Bash
+Git
+React
+Machine Learning
+Data Structures
