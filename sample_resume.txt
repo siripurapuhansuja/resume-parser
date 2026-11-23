@@ -1,0 +1,4 @@
+Name: Demo Candidate
+Email: demo.candidate@example.com
+Phone: +91 00000 00000
+Skills: Python, SQL
